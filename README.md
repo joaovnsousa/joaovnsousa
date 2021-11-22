@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo!
 
-- Cursando Bacharelado na UFPB
+- Cursando Bacharelado na UFPB!👨🏽‍💻
 
 <div align="center">
   <a href="https://github.com/joaovnsousa">
